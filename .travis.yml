@@ -3,6 +3,7 @@ language: python
 services:
   - elasticsearch
 
+
 python:
   - 2.6
   - 2.7
